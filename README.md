@@ -21,7 +21,7 @@ My strengths lie in combining cloud tools (like Azure), NLP models (like FinBERT
 
 ## 🧠 Technical Skills
 
-**Programming Languages**: Python, SQL, Go  
+**Programming Languages**: Python, SQL, Go, C, C++  
 **ML & NLP Expertise**: Scikit-learn, Transformers, FinBERT, Prophet, PyTorch, A/B Testing, Time Series Forecasting, LLMs, OCR  
 **Data & Analytics Tools**: Pandas, NumPy, Matplotlib, OpenCV, Power BI, Grafana  
 **Cloud & DevOps**: Azure, Git  
