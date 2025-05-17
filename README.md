@@ -36,5 +36,4 @@ My strengths lie in combining cloud tools (like Azure), NLP models (like FinBERT
 
 ---
 
-_Internship-related projects involve enterprise systems and can't be shared publicly. Other completed projects are currently private and will be published progressively after refinement._
-_This page is a work in progress — more projects and content coming soon!_
+_Some projects from my internship involve enterprise systems and cannot be shared publicly. Other completed works are currently private and will be published progressively after review. This page is a work in progress — more projects and content are on the way!_
